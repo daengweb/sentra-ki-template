@@ -1456,7 +1456,7 @@ textarea:-ms-input-placeholder {
 
 .form-control {
   background: #fff;
-  border: 0px;
+  border: 1px solid #eee;
   height: 60px;
   box-shadow: none;
   padding-left: 30px;
@@ -1504,7 +1504,7 @@ textarea.form-control.form-icons {
 .form-group {
   margin-bottom: 25px;
 }
-.form-group input {
+/* .form-group input {
   background: #fff;
   border: 0px;
   height: 60px;
@@ -1522,7 +1522,7 @@ textarea.form-control.form-icons {
 }
 .form-group input.form-icons {
   padding-left: 42px;
-}
+} */
 
 label {
   margin-bottom: 5px;
