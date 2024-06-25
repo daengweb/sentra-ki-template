@@ -4,8 +4,8 @@
     <section class="section-box">
       <div class="banner-hero banner-head-image" style="background: url({{ asset('agon/imgs/page/blog/single/banner.png') }});">
         <div class="container">
-          <div class="text-center"><span class="tag-1 bg-6 color-green-900">Politeknik Negeri Bali</span>
-            <h1 class="text-heading-1 color-white mt-30">Microsoft Patch Management<br class="d-lg-block d-none"> For Home Users</h1>
+          <div class="text-center"><span class="tag-1 bg-6 color-green-900">PNB</span>
+            <h1 class="text-heading-1 color-white mt-30">PNB<br class="d-lg-block d-none"> For Home Users</h1>
           </div>
         </div>
       </div>
